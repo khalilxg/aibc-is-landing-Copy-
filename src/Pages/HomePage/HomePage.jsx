@@ -28,7 +28,7 @@ function HomePage(props) {
                         <source src={bgMp4} type="video/mp4" />
                     </video>
                     <div className="header__brand " id="tsparticles">
-                        <h1 className="hidden-title">Wyvern Team</h1>
+                        <h1 className="hidden-title">AIBC Team</h1>
                         <img
                             src={headerLogo}
                             alt=""
