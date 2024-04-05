@@ -168,11 +168,10 @@ function HomePage(props) {
                                 </div>
                                 <div className="services__container__item__description">
                                     <h3 className="services__container__item__description__heading">
-                                    Computer Vision Solutions for Enhanced Insights
+                                    Computer Vision ML/DL Solutions for Enhanced Insights
                                     </h3>
                                     <p className="services__container__item__description__details">
-                                    Unlock the potential of visual data with our advanced computer vision solutions. Our expertise in computer vision enables us to extract valuable insights from images and videos, empowering businesses to make data-driven decisions and optimize processes. Whether it's object detection, image recognition, or video analysis, we leverage cutting-edge AI algorithms to deliver actionable insights and drive business success
-                                    </p>
+                                    Harness the combined power of machine learning, deep learning, and forecasting within our advanced computer vision solutions to unlock the full potential of visual data. Our expertise in these fields enables us to not only extract invaluable insights from images and videos but also predict future trends and behaviors, providing businesses with the capability to make informed, data-driven decisions and streamline operations. From precise object detection to accurate image recognition, insightful video analysis, and predictive forecasting, we leverage state-of-the-art AI algorithms to deliver actionable insights that fuel business growth and success.                                    </p>
                                 </div>
                             </div>
                             <div className="services__container__item card-hover">
