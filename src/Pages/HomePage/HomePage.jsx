@@ -35,7 +35,7 @@ function HomePage(props) {
                             className="header__brand__icon"
                         />
                         <p className="header__brand__description">
-                        Welcome to AIBC, your one-stop AI solution for every industry. From healthcare to finance, law to education, and IT, we've got the tools and expertise to propel your business forward. Whether it's our ASI chat system, SupportGPT, powered by your data or our range of other services, we're here to revolutionize how you work. Experience the power of AI with AIBC – where innovation meets versatility, and success is inevitable                        
+                        Welcome to AIBC, where AI transforms industries. Explore our cutting-edge chatbots and AI solutions for healthcare, finance, law, education, IT, and manufacturing.                      
                         
                         </p>
                     
