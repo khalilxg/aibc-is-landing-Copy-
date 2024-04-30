@@ -100,7 +100,7 @@ function HomePage(props) {
                                 </div>
                                 <div className="services__container__item__description">
                                     <h3 className="services__container__item__description__heading">
-                                        SupportGPT - Your GenAI Technical Support Virtual Assistant
+                                        SupportGPT - A bleeding-edge technology as a Technical Support Virtual Assistant
                                     </h3>
                                     <p className="services__container__item__description__details">
                                     SupportGPT is GenAI Tech's web-based chat interface powered by an exceptionally intelligent system known as ASI (Artificial Super Intelligence). It serves as your virtual technical support assistant, adept at deriving solutions from your documents, including PDFs, docs, spreadsheets, and databases. With SupportGPT, your clients receive swift and accurate assistance, leveraging the power of AI to resolve their queries effectively.
@@ -168,7 +168,7 @@ function HomePage(props) {
                                 </div>
                                 <div className="services__container__item__description">
                                     <h3 className="services__container__item__description__heading">
-                                    Computer Vision Machine Learning & Deep Learning Solutions for Enhanced Insights
+                                    GenAI, Computer Vision, Machine Learning & Deep Learning Solutions
                                     </h3>
                                     <p className="services__container__item__description__details">
                                     Harness the combined power of machine learning, deep learning, and forecasting within our advanced computer vision solutions to unlock the full potential of visual data. Our expertise in these fields enables us to not only extract invaluable insights from images and videos but also predict future trends and behaviors, providing businesses with the capability to make informed, data-driven decisions and streamline operations. From precise object detection to accurate image recognition, insightful video analysis, and predictive forecasting, we leverage state-of-the-art AI algorithms to deliver actionable insights that fuel business growth and success.                                    </p>
