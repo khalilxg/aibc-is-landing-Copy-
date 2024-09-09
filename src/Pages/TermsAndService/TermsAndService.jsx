@@ -26,7 +26,7 @@ function TermsAndService(props) {
 
 **Introduction**
 
-Welcome to AIBC, a Tunisian-based company specializing in advanced AI services and products. These Terms of Service and Policies govern your use of our AI-driven applications and solutions, including B2C applications powered by Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) techniques. By accessing or using our services, you agree to comply with these terms. Our goal is to protect the interests of AIBC and provide a clear understanding of our offerings, ensuring transparency and accountability.
+Welcome to AIBC, a Tunisian-based company specializing in advanced AI services and products. These Terms of Service and Policies govern your use of our AI-driven applications and solutions, including B2C applications powered by Large Language Models (LLMs). By accessing or using our services, you agree to comply with these terms. Our goal is to protect the interests of AIBC and provide a clear understanding of our offerings, ensuring transparency and accountability.
 
 **Scope of Services**
 
