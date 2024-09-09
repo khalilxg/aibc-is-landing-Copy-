@@ -20,7 +20,7 @@ function TermsAndService(props) {
 					<p className="document">
 						<br />
 						<br />
-						<span className="bold-head">AI for All !
+						<span className="bold-head">
 
 ### 1. Introduction and Overview
 
