@@ -30,7 +30,7 @@ Welcome to AIBC, a Tunisian-based company specializing in advanced AI services a
 
 **Scope of Services**
 
-AIBC offers innovative AI solutions designed to enhance user experiences by leveraging field-specific data processed from PDFs. Our AI applications are tailored to provide accurate and context-aware predictions and insights. They are not intended to replace human entities or professionals but to augment decision-making processes and provide valuable information based on the data inputted into our systems.
+AIBC offers innovative AI solutions designed to enhance user experiences by leveraging field-specific data processed from public data. Our AI applications are tailored to provide accurate and context-aware predictions and insights. They are not intended to replace human entities or professionals but to augment decision-making processes and provide valuable information based on the data inputted into our systems.
 
 **Purpose**
 
@@ -46,7 +46,7 @@ By using our services, you acknowledge that you have read, understood, and agree
 
 **Service Overview**
 
-AIBC delivers state-of-the-art AI services and products, including B2C applications that integrate Large Language Models (LLMs) and Retrieval-Augment dynamic token searches techniques. Our services involve processing field-specific data from PDFs to generate meaningful, context-aware responses. These applications are designed to enhance user decision-making and provide insights based on predictive analytics.
+AIBC delivers state-of-the-art AI services and products, including B2C applications that integrate Large Language Models (LLMs) and Retrieval-Augment dynamic token searches techniques. Our services involve processing field-specific data from public data to generate meaningful, context-aware responses. These applications are designed to enhance user decision-making and provide insights based on predictive analytics.
 
 **AI Capabilities**
 
