@@ -50,7 +50,7 @@ AIBC delivers state-of-the-art AI services and products, including B2C applicati
 
 **AI Capabilities**
 
-Our AI-driven applications utilize advanced algorithms to analyze and interpret complex data. The integration of LLMs and RAG techniques allows for accurate and contextually relevant responses. Our systems are designed to adapt and learn from data inputs to continually improve performance and reliability.
+Our AI-driven applications utilize advanced algorithms to analyze and interpret complex data. The integration of LLMs and retrieving techniques allows for accurate and contextually relevant responses. Our systems are designed to adapt and learn from data inputs to continually improve performance and reliability.
 
 **Service Scope**
 
