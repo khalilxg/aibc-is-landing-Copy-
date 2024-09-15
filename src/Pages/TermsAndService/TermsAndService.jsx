@@ -46,7 +46,7 @@ By using our services, you acknowledge that you have read, understood, and agree
 
 **Service Overview**
 
-AIBC delivers state-of-the-art AI services and products, including B2C applications that integrate Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) techniques. Our services involve processing field-specific data from PDFs to generate meaningful, context-aware responses. These applications are designed to enhance user decision-making and provide insights based on predictive analytics.
+AIBC delivers state-of-the-art AI services and products, including B2C applications that integrate Large Language Models (LLMs) and Retrieval-Augment dynamic token searches techniques. Our services involve processing field-specific data from PDFs to generate meaningful, context-aware responses. These applications are designed to enhance user decision-making and provide insights based on predictive analytics.
 
 **AI Capabilities**
 
