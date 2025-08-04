@@ -61,7 +61,7 @@ function Navbar(props) {
 							</NavLink>
 						</li>
                         <li className="nav-item">
-                            <a href="mailto:aimedia.flow@gmail.com?subject=Im a client i would ask !" target='_blank' className="nav-links">Contact us</a>
+                            <a href="mailto:contact@aibc.tn?subject=Im a client i would ask !" target='_blank' className="nav-links">Contact us</a>
 						</li>
 					</ul>
 					<div className="nav-icon" onClick={handleClick}>
