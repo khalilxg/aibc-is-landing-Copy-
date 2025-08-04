@@ -7,7 +7,7 @@ function Footer(props) {
             
 			<section className="footer">
 				<div className="footer__socials">
-					<a href="mailto:aimedia.flow@gmail.com?subject=Im a client i would ask !" target='_blank'>
+					<a href="mailto:contact@aibc.tn?subject=Im a client i would ask !" target='_blank'>
 						<img
 							src="./twitter.png"
 							alt=""
